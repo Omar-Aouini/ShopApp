@@ -1,5 +1,5 @@
 # ShopApp
-shop application
+shop application with RESTful API web services
 
 technologies stack:
 
